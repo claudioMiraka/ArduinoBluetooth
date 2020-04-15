@@ -21,14 +21,8 @@
 4. [Upload this code on Arudino](https://github.com/claudioMiraka/ArduinoBluetooth/blob/master/arduino%20bluetooth/arduino_blue/arduino_blue.ino)
 
 ## Screens
-<p align="center"> 
+<p>
 <img src="screenshots/Screenshot_2020-04-14-22-20-52.png" width="30%" height="30%" >
-</p>
-
-<p align="center"> 
 <img src="screenshots/Screenshot_2020-04-14-22-21-02.png" width="30%" height="30%" >
-</p>
-
-<p align="center"> 
 <img src="screenshots/Screenshot_2020-04-14-22-21-09.png" width="30%" height="30%" >
-</p?
+ </p>
