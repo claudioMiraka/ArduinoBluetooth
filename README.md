@@ -1,8 +1,4 @@
-# Arudino Bluetooth
-
-<p align="left">
-<img src="screenshots/icon.jpg" width="10%" height="10%"/> <h2>Arduino Blue<h2>
-</p
+<h1><img src="screenshots/icon.jpg" width="10%" height="10%"/>  Arudino Bluetooth<h1>
 
 ## Introduction
  
