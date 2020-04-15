@@ -1,4 +1,4 @@
-# Arudino Bluetooth <img src="screenshots/icon.jpg" width="10%" height="10%"/> 
+# Arudino Bluetooth <img src="screenshots/icon.jpg" width="10%" height="10%"/>
 
 ## Introduction
  
