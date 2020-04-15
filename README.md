@@ -1,6 +1,8 @@
-## Arudino Bluetooth
+# Arudino Bluetooth
 
-Android app that communicates with Arduino Uno
+<p align="left">
+<img src="screenshots/icon.jpg" width="10%" height="10%"/> <h2>Arduino Blue<h2>
+</p
 
 ## Introduction
  
