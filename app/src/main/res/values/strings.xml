@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Arduino Blue</string>
+    <string name="search_paired_devices">Search for paired devices</string>
+
+    <string name="paired_devices">Paired devices</string>
+    <string name="control_device">Control device</string>
+
+    <string name="forward">Forward</string>
+    <string name="backward">Backward</string>
+
+    <string name="stop_text">Stop</string>
+
+    <string name="collision">Collision Ahead</string>
+    <string name="safe">Safe</string>
+
+    <string name="back_text">Go Back</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
