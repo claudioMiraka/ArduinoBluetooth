@@ -1,4 +1,4 @@
-## Arudinob Bluetooth
+## Arudino Bluetooth
 
 Android app that communicates with Arduino Uno
 
