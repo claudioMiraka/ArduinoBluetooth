@@ -6,8 +6,8 @@ char myChar;
 
 bool collision = false;
 
-const int trigPin = 9;
-const int echoPin = 10;
+int trigPin = 9;
+int echoPin = 10;
 
 long duration;
 int distance;
