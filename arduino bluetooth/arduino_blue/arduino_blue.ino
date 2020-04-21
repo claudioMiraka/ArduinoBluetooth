@@ -69,7 +69,7 @@ void loop() {
     delay(5);
     digitalWrite(red_out, HIGH);
   }
-  if (distance > 7) {
+  if (distance > 5) {
     if (collision) {
       stopMachine();
     }
